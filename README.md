@@ -1,5 +1,9 @@
 # Ethereum Exchange
 > An Ethereum Distributed Token Exchange
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
+## Installation
+
+In the Project's root directory:
+```sh
+
+```
